@@ -1,10 +1,7 @@
 new file
 
-
 making new changes the the file
 blah
-
-
 
 now im in branchTest
 checking if this works when i merge
